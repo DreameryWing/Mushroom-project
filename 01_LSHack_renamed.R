@@ -119,7 +119,7 @@ for (i in 1:nrow(dset1)){
 table(dset1$veil.type)
 dset1$veil.type <- 'partial'
 
-#Катя
+#Katya
 #1
 table(dset1$gill.spacing)
 for (i in 1:nrow(dset1)){
@@ -196,7 +196,7 @@ for (i in 1:nrow(dset1)){
   }
 }
 
-#Илья
+#Ilya
 #1
 table(dset1$stalk.surface.above.ring)
 for (i in 1:nrow(dset1)){
@@ -293,7 +293,7 @@ for (i in 1:nrow(dset1)){
   }
 }
 
-#Лиза
+#Liza
 #1
 table(dset1$veil.color)
 for (i in 1:nrow(dset1)){
