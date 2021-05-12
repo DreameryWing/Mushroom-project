@@ -43,7 +43,7 @@ b1%>%
   geom_bar(position="dodge" ,stat="identity")+
   scale_fill_manual(values = c("#e74c3c", "#2ecc71"))
 
-#Лиза--------------------------------------------------
+#Liza--------------------------------------------------
 
 #2
 table(dset2$cap.surface)
@@ -148,7 +148,7 @@ b1%>%
   geom_bar(position="dodge" ,stat="identity")+
   scale_fill_manual(values = c("#e74c3c", "#2ecc71"))
 
-#Катя--------------------------------------------------
+#Katya--------------------------------------------------
 
 #9
 table(dset2$gill.color)
@@ -268,7 +268,7 @@ b1%>%
   geom_bar(position="dodge" ,stat="identity")+
   scale_fill_manual(values = c("#e74c3c", "#2ecc71"))
 
-#Илья--------------------------------------------------
+#Ilya--------------------------------------------------
 
 #17
 table(dset2$veil.color)
